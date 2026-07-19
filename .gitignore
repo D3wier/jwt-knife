@@ -1,4 +1,4 @@
-jwt-knife
+/jwt-knife
 *.exe
 dist/
 vendor/
