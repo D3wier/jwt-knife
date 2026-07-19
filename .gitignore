@@ -1,0 +1,4 @@
+jwt-knife
+*.exe
+dist/
+vendor/
